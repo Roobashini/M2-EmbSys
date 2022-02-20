@@ -9,9 +9,6 @@ Automatic gain control (AGC), analogue to digital converter (ADC), auto focus, a
 
 Color and digital image processing complete the digital signal path before it is sent.
 
-Bayer color filter array:
-
-      Single sensors have a major flaw in that they can only get one signal per photosite. A colour filter is overlaid on the sensor to introduce colour information. There are a variety of colour filter schemes available, with the most popular being the Bayer contract.
 
 Design
 
