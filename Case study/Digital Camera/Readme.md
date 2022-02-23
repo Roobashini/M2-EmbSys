@@ -7,7 +7,7 @@ Table of content:
 •	Design
 
 About the Digital Camera:
-           To take still photos and capture video, a digital camera employs an electronic image sensor. A digital camera's optical system functions similarly to that of a film camera, with a standard lens and diaphragm employed to adjust electronic image sensor lighting.
+           To take  photos and capture video, a digital camera employs an electronic image sensor. A digital camera's optical system functions similarly to that of a film camera, with a standard lens and diaphragm employed to adjust electronic image sensor lighting.
            Amateur and professional photographers both benefit from digital cameras' automated control features. The majority of functionality on advanced digital cameras may be controlled manually.
           From personal digital assistants (PDAs) and mobile phones to the Hubble and Webb Space Telescopes, digital cameras are integrated into a wide range of digital devices. Digital photography is versatile and compatible with email, CD/DVD, TV and computer monitors, the Internet, and computer storage. Some digital cameras come with a built-in GPS receiver that can be used to create geotagged images.
         The ability to examine video and images immediately is a fundamental benefit of digital photography. Cropping, recoloring, contrast/imperfection adjustment, and combining one or more photos are all done with image editing software.
