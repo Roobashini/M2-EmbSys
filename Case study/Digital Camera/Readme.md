@@ -16,15 +16,15 @@ SWOT Analysis:
 ![image](https://user-images.githubusercontent.com/68070984/155295853-5457478b-a9d5-47f3-9a4e-b44afc090997.png)
 Requirements:
 
-##High Level Requirements:
-       -->Energy Reducing the amount of electricity or time used saves energy.
-       -->Battery life should be as long as possible.
-       -->Must use an IC that fits in a camera of reasonable size.
+High Level Requirements:
+       Energy Reducing the amount of electricity or time used saves energy.
+       Battery life should be as long as possible.
+       Must use an IC that fits in a camera of reasonable size.
 
-##Low Level Reaquirements:
-       -->battery life (power x time) Metrics that are restricted 
-       -->Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization 
-       -->Made as many improvements as possible to the product Metrics can be limited as well as optimised.
+Low Level Reaquirements:
+       battery life (power x time) Metrics that are restricted 
+       Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization 
+       Made as many improvements as possible to the product Metrics can be limited as well as optimised.
 
  
  Block Diagram:
