@@ -1,10 +1,10 @@
 Table of content:
-•	Description
+i)	Description
    •	About the Digital camera
    •	SWOT Analysis
-•	Requirements
-•	Block Diagram
-•	Design
+ii)	Requirements
+iii)	Block Diagram
+iv)	Design
 
 About the Digital Camera:
            To take  photos and capture video, a digital camera employs an electronic image sensor. A digital camera's optical system functions similarly to that of a film camera, with a standard lens and diaphragm employed to adjust electronic image sensor lighting.
@@ -17,14 +17,14 @@ SWOT Analysis:
 Requirements:
 
 High Level Requirements:
-       Energy Reducing the amount of electricity or time used saves energy.
-       Battery life should be as long as possible.
-       Must use an IC that fits in a camera of reasonable size.
+       -->Energy Reducing the amount of electricity or time used saves energy.
+       -->Battery life should be as long as possible.
+       -->Must use an IC that fits in a camera of reasonable size.
 
 Low Level Reaquirements:
-       battery life (power x time) Metrics that are restricted 
-       Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization 
-       Made as many improvements as possible to the product Metrics can be limited as well as optimised.
+       -->battery life (power x time) Metrics that are restricted 
+       -->Values must fall below (or occasionally exceed) a specified threshold. Metrics for optimization 
+       -->Made as many improvements as possible to the product Metrics can be limited as well as optimised.
 
  
  Block Diagram:
