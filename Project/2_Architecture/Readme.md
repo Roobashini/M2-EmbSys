@@ -1,1 +1,19 @@
+Flow Diagram:
+
+Transmitter side:
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
 
