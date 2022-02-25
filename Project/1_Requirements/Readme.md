@@ -19,6 +19,8 @@ main purpose of this project is to develop and build a flood monitoring and dete
 detection system that will automatically identify floods and provide data to the Local Government Unit and citizens. The precise goals of the project include detecting the current
 level of water in rivers at various locations, predicting river water levels, warning residents about floods, and updating government officials about the situation of the floods,
 and informing government officials about the situation.
+
+
 SWOT Analysis:
 ![image](https://user-images.githubusercontent.com/68070984/155694159-9f27a5d9-1805-476b-8d1b-a224d2932ebe.png)
 
