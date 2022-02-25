@@ -27,3 +27,13 @@ SWOT Analysis:
 
 ![image](https://user-images.githubusercontent.com/68070984/155694159-9f27a5d9-1805-476b-8d1b-a224d2932ebe.png)
 
+4W's & 1H:
+
+Who: Automatically identify floods and provide data to the Local Government Unit and citizens.
+What: Able to check water level on a remote place autonomously.
+When: Emergency evacuation and mitigation plans for a safer move before the flood situation get worse
+Where: Predicting river water levels, warning residents about floods, and updating government.
+How: Sensor networks will be utilized to accurately measure the amount of flooding, and a mobile phone connected to this technology will communicate forecasting information to those impacted, preventing avoidable loss caused by this natural disaster.
+
+
+
