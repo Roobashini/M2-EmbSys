@@ -1,5 +1,6 @@
+High Level Requirements:
 |ID|Description|
 |--|--|
-|HLR1|Collect data on water level status from all locations and send it to a central server|
-|HLR2|Able to check water level on a remote placeautonomously|
-|HLR3|Have a web-based system that users may access 24 hours a day, seven days a week via an internet connection|
+|HLR1|Collect data on water level status from all locations and send it to a central server.|
+|HLR2|Able to check water level on a remote placeautonomously.|
+|HLR3|Have a web-based system that users may access 24 hours a day, seven days a week via an internet connection.|
