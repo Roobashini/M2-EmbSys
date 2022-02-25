@@ -1,3 +1,5 @@
+                                                       EARLY FLOOD DETECTION AND AVOIDANCE SYSTEM
+
 Introduction:
 Flooding is one of the globe‟s most common natural disasters. Although wecan estimate rainfall or track cyclone paths with great precision using satellite images, having real-time
 monitored data such as flow, precipitation level, or water level is critical for making smart decisions regarding the actions that must be taken to prevent flooding. Flood damage
