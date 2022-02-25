@@ -22,5 +22,6 @@ and informing government officials about the situation.
 
 
 SWOT Analysis:
+
 ![image](https://user-images.githubusercontent.com/68070984/155694159-9f27a5d9-1805-476b-8d1b-a224d2932ebe.png)
 
