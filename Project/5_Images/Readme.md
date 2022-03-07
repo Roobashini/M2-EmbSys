@@ -1,3 +1,13 @@
+Block Diagram:
+
+![Screenshot (14)](https://user-images.githubusercontent.com/68070984/157070968-bca2c346-12a0-4d5f-b43f-67389dfb28a4.png)
+
+Structural Diagram:
+
+![Screenshot (10)](https://user-images.githubusercontent.com/68070984/157071154-e0cd0885-415d-47df-b9d3-91ac2a847afb.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/68070984/157071258-34410479-83c4-4710-bca5-f468f53a821b.png)
+
 ARDUINOUNO:
 
 ![image](https://user-images.githubusercontent.com/68070984/157016610-dac74047-8fdf-41ab-a33c-b24966f643c3.png)
