@@ -1,6 +1,7 @@
                                                        EARLY FLOOD DETECTION AND AVOIDANCE SYSTEM
 
 Introduction:
+
 Flooding is one of the globe‟s most common natural disasters. Although wecan estimate rainfall or track cyclone paths with great precision using satellite images, having real-time
 monitored data such as flow, precipitation level, or water level is critical for making smart decisions regarding the actions that must be taken to prevent flooding. Flood damage
 costs are highly correlated with the amount of warning time provided prior to a flood event, making flood monitoring and forecasting vital to limiting flood damagecosts.
@@ -30,10 +31,15 @@ SWOT Analysis:
 4W's & 1H:
 
 Who: Automatically identify floods and provide data to the Local Government Unit and citizens.
+
 What: Able to check water level on a remote place autonomously.
+
 When: Emergency evacuation and mitigation plans for a safer move before the flood situation get worse
+
 Where: Predicting river water levels, warning residents about floods, and updating government.
+
 How: Sensor networks will be utilized to accurately measure the amount of flooding, and a mobile phone connected to this technology will communicate forecasting information to those impacted, preventing avoidable loss caused by this natural disaster.
+
 
 
 
