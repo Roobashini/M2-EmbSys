@@ -15,7 +15,8 @@ Application
     
 Applications of Arduino UNO:
 
-     The Arduino boards can work as a stand-alone project and can be interfaced with other Arduino boards or Raspberry Pi boards. Arduino UNO board is used in the following
+     The Arduino boards can work as a stand-alone project and can be interfaced with other Arduino
+     boards or Raspberry Pi boards. Arduino UNO board is used in the following
      applications.
      
     •	WeighingMachines
@@ -99,7 +100,7 @@ Applications of Arduino UNO:
    
    •	Wastewater
    
-  Applications:
+  Applications of LCD:
 
    •	Clocks: Used in displays in digital wallclocks
    
