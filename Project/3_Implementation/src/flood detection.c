@@ -11,31 +11,14 @@ Dim seconds As Integer
 Dim seconds2 As Integer
 Dim seconds3 As Integer
 Dim i As Integer
- 
 Dim counter1 As Integer
 Dim mytext As String
- 
- 
- 
- 
- 
 Private Sub Check6_Click()
 mytext = Text1.Text
- 
- 
- 
 Open "c:\myfile.txt" For Append As #1
 Write #1, mytext
 Close #1
 End Sub
- 
- 
- 
- 
- 
- 
- 
- 
 Private Sub Command1_Click()
 frmAbout.Show
  
@@ -59,12 +42,7 @@ seconds3 = 0
 End Sub
  
 Private Sub Form_Load()
- 
- 
- 
- 
- 
-    With MSComm2         ' gsm connected here
+ With MSComm2         ' gsm connected here
         .CommPort = 5
         .Settings = "9600,N,8,1"
         .Handshaking = comRTS
@@ -82,23 +60,13 @@ counter1 = 1
 Timer8.Enabled = False
 End Sub
  
- 
- 
- 
- 
- 
- 
- 
-Private Sub Timer1_Timer()
+ Private Sub Timer1_Timer()
 'txtrec.Text = ""
  
 txtrec.Text = txtrec.Text + MSComm2.Input
  
 Label2.Caption = txtrec.Text
 search = txtrec.Text
- 
- 
- 
  
 If InStr(search, "critical situation 2") Then
 Timer8.Enabled = True
@@ -206,12 +174,7 @@ shpml1.FillColor = &HFF00& ' green color
 shpn.FillColor = &HFF& ' red color
 shpl.FillColor = &HFF&
  
- 
 txtrec.Text = ""
- 
- 
- 
- 
 ElseIf InStr(search, "lower") Then
 Timer8.Enabled = True
  
@@ -225,18 +188,13 @@ shpn.FillColor = &HFF00& ' green color
  
 shpl.FillColor = &HFF& ' red color
  
- 
 txtrec.Text = ""
  
 End If
  
 'Sleep (1000)
  
- 
 End Sub
- 
- 
- 
  
  
 Private Sub Timer2_Timer()
